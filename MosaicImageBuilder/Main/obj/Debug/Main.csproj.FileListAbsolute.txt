@@ -1,0 +1,14 @@
+C:\Users\dewit777\source\repos\MosaicImageBuilder\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\dewit777\source\repos\MosaicImageBuilder\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\dewit777\source\repos\MosaicImageBuilder\Main\bin\Debug\Main.exe.config
+C:\Users\dewit777\source\repos\MosaicImageBuilder\Main\bin\Debug\Main.exe
+C:\Users\dewit777\source\repos\MosaicImageBuilder\Main\bin\Debug\Main.pdb
+C:\Users\dewit777\source\repos\MosaicImageBuilder\Main\obj\Debug\Main.exe
+C:\Users\dewit777\source\repos\MosaicImageBuilder\Main\obj\Debug\Main.pdb
+C:\Users\deWit\Desktop\MosaicImageBuilder\Main\bin\Debug\Main.exe.config
+C:\Users\deWit\Desktop\MosaicImageBuilder\Main\bin\Debug\Main.exe
+C:\Users\deWit\Desktop\MosaicImageBuilder\Main\bin\Debug\Main.pdb
+C:\Users\deWit\Desktop\MosaicImageBuilder\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\deWit\Desktop\MosaicImageBuilder\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\deWit\Desktop\MosaicImageBuilder\Main\obj\Debug\Main.exe
+C:\Users\deWit\Desktop\MosaicImageBuilder\Main\obj\Debug\Main.pdb
